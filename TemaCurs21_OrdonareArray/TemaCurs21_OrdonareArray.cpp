@@ -18,7 +18,6 @@ int main()
 	elementeMari(array, size);
 	std::cout << "Arata-mi cele mai mari 3 numere din Array: " << array[5] << ", " << array[4] << ", " << array[3] << std::endl;
 	std::cout << "Arata-mi cele mai mici 3 numere din Array: " << array[0] << ", " << array[1] << ", " << array[2] <<std::endl;
-	
 }
 
 

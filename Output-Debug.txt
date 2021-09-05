@@ -1,0 +1,14 @@
+﻿'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'E:\Sorin\IT SCHOOL\VIZUAL STUDIO\TemaCurs21_OrdonareArray\Debug\TemaCurs21_OrdonareArray.exe'. Symbols loaded.
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x8328 has exited with code 0 (0x0).
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'TemaCurs21_OrdonareArray.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0xb44 has exited with code 0 (0x0).
+The thread 0x6e68 has exited with code 0 (0x0).
+The program '[32460] TemaCurs21_OrdonareArray.exe' has exited with code 0 (0x0).
